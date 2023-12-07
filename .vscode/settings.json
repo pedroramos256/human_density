@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.cgi": "python",
+        "vector": "cpp",
+        "string_view": "cpp"
+    }
+}
